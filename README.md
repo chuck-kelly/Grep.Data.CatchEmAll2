@@ -13,12 +13,15 @@ Save the each pokemon as a separate `.txt` file in the `captured` directory.
 
 
 ### Part 2: Stats
-- **a)** How many pokemon are there? Show your grep that you used to get to that number.
-
+- **a)** H ow many pokemon are there? Show your grep that you used to get to that number.
+ 15
 
 - **b)** Who are the three biggest pokemon? (number of lines)
 Show the grep that you used to get to the result.
-
+beedrill, charizard, pikachu
+ggrep -P beed filescan_00.4 | wc -l
+ggrep -P izard filescan_00.4 | wc -l
+ggrep -P chu filescan_00.4 | wc -l
 
 
 

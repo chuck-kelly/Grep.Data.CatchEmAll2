@@ -1,6 +1,6 @@
 # Part 1
 ### a)
-
+ggrep -P beed filescan_00.1 
 
 
 
@@ -9,10 +9,10 @@
 
 
 ### c)
-
-
-
-
+forest 1 - beedrill, blastiose, butterfree, bulbasaur
+forrest 2 - charmander, charmeleon, charizard
+forrest 3 - pikachu, meowth, jigglypuff, ivysaur
+forrest 4 - venusaur, wartorle, squirtle, psyduck
 
 
 
